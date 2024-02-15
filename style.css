@@ -43,9 +43,13 @@ a{
     line-height: 1.8;
 }
 
-.mahir-pic{
+/* .mahir-pic{
     border-radius: 20%;
     width: 300px;
+} */
+
+#d-mahir{
+    border-radius: 20%;
 }
 
 .dewan-name{
