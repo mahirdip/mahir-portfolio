@@ -30,12 +30,6 @@ a{
 }
 
 /* ------------ Main 1st Section ------------ */
-
-.mahir-pic{
-    border-radius: 20%;
-    width: 300px;
-}
-
 .firstcontant{
     display: flex;
     align-items: center;
@@ -47,6 +41,11 @@ a{
     background-color: black;
     color: white;
     line-height: 1.8;
+}
+
+.mahir-pic{
+    border-radius: 20%;
+    width: 300px;
 }
 
 .dewan-name{
